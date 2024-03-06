@@ -1,7 +1,7 @@
 # crud_powerapps_oracle
 Aplicativo no Power Apps que realiza inserção, alteração, leitura ou remoção de registros no banco de dados da Oracle.
 
-Apresento o aplicativo, que inclui uma visão detalhada das telas, a paleta de cores utilizada, o design e o funcionamento. Você pode visualizar todos esses detalhes através deste [link].
+Apresento o aplicativo, que inclui uma visão detalhada das telas, a paleta de cores utilizada, o design e o funcionamento. Você pode visualizar todos esses detalhes através deste link "https://www.canva.com/design/DAF17c2tujM/DNfTXxi6Sg4DQYQT46UxTg/view?utm_content=DAF17c2tujM&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=editor".
 
 O aplicativo está disponível na web e pode ser acessado através deste [link].
 
